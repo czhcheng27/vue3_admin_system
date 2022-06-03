@@ -1,13 +1,14 @@
 <script>
   export default {
-    name: 'app'
+    name: 'Home'
   }
 </script>
 
 <template>
+  <h1>Home Page</h1>
   <router-view></router-view>
 </template>
 
-<style>
+<style scoped>
 
 </style>
